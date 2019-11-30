@@ -6,6 +6,7 @@
 html
   box-sizing border-box
 
+
 p, li{
   line-height 1.5
   
@@ -17,21 +18,24 @@ p{
   text-align justify
 }
 
-ul, ol
+ul, ol{
   padding 0 0 0 20px
-
-figure
-  margin 0
-
-img, video{
-  vertical-align middle
 }
-img{
+
+figure{
+  margin 0
+}
+
+img, video
+  vertical-align middle
+
+
+.img
   width : 200px;
   height : 200 px;
   padding : 10px;
   border 1 solid blue
-}
+
 
 .deck
   overflow hidden
@@ -44,7 +48,7 @@ img{
     display none
 
 .bespoke-parent, .bespoke-scale-parent
-  position absolute
+ position absolute
   top 0
   right 0
   bottom 0
@@ -54,7 +58,7 @@ img{
   pointer-events none
 
 .bespoke-slide
-  overflow hidden
+ overflow hidden
   // NOTE force opacity to start at 0 to avoid transition on load when using bespoke-scale
   opacity 0
   background-color #fff
@@ -80,16 +84,20 @@ img{
 .bespoke-inactive
   transition-delay 0
 
+
 .bespoke-bullet
   transition opacity 200ms ease-in-out
   &-inactive
     visibility hidden
 
+
 .emphatic
   background-color #222
 
+
 .emphatic-text
   color #fff
+
 
 aside[role=note], aside[role=notes]
   display none
