@@ -1,0 +1,20 @@
+Scrum Master 1 Hevanders
+
+1. Buat Repository baru di github
+2. Buat Repository local
+3. Buat Slide pada nodejs
+4. Push dan pull ke github
+
+Masalah 
+1. User unkown pada saat melakukan push ke dalam github
+penyelesaian : lakukan git config --global user.email hevanders19
+
+2. Terjadi rejected  pada saat push 
+penyelesaian : lakukan git pull
+
+Anggota:
+1. Belsinta : Edit Judul, Create Lampu2019, Perubahan Style pada judul dan paragraf, penambahan style dan gambar, ada kesalahan fatal, pengeditan iamge pada section 2
+
+2. Hevanders : Melakukan Perubahan pada section 1, Mengahapus gambar 1, mengahapus gambar 2,Pengurangan pada section 1,  Penambahan Section Manfaat
+
+3. Ririn : Penambahan Kelebihan
