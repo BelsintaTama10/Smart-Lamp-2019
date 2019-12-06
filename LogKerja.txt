@@ -18,3 +18,6 @@ Anggota:
 2. Hevanders : Melakukan Perubahan pada section 1, Mengahapus gambar 1, mengahapus gambar 2,Pengurangan pada section 1,  Penambahan Section Manfaat
 
 3. Ririn : Penambahan Kelebihan
+
+4. Tia 	 : Menambahkan Video Penerapan Pir Motion Sensor.
+
