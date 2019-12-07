@@ -9,6 +9,7 @@ Masalah
 1. User unkown pada saat melakukan push ke dalam github
 penyelesaian : lakukan git config --global user.email hevanders19
 
+
 2. Terjadi rejected  pada saat push 
 penyelesaian : lakukan git pull
 
@@ -20,6 +21,8 @@ Anggota:
 3. Ririn : Penambahan Kelebihan
 
 4. Tia 	 : Menambahkan Video Penerapan Pir
+
+5. Rizha : Kelebihan dan kekurangan smart lamp
 
 
 ScrumMaster 2 : Belsinta Tama
