@@ -19,5 +19,5 @@ Anggota:
 
 3. Ririn : Penambahan Kelebihan
 
-4. Tia 	 : Menambahkan Video Penerapan Pir Motion Sensor.
+4. Tia 	 : Menambahkan Video Penerapan Pir Motion Sensor,melakukan perubahan di sesion 3 
 
