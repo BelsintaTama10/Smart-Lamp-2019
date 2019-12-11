@@ -20,6 +20,9 @@ Anggota:
 3. Ririn : Penambahan Kelebihan
 
 
+4. Rizha : Pembuatan list dan penambahan kekurangan dan kelebihan smart lamp, mengisi seksion manfaat smart lamp
+
+
 4. Tia 	 : Menambahkan Video Penerapan Pir Motion Sensor,melakukan perubahan di sesion 3 , menambahkan table difitur kelebihan dan kekurangan smart lamp
 
 
