@@ -6,6 +6,11 @@
   <title>Tugas Git Hub</title>
   <link rel="stylesheet" type="text/css" href="build/build.css">
 
+<style type="text/css">
+  .kotak{
+    border: 1px solid;
+  }
+</style>
 </head>
 <body>
 <article class="deck">
@@ -21,7 +26,7 @@
   </section>
 
   <section>
-   <marquee> <h1>Manfaat Smart Lamp</h1> </marquee>
+   <marquee behavior="alter"> <h1>Manfaat Smart Lamp</h1> </marquee>
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Penggunaan Smart Lamp pada kehidupan sehari - hari akan memberikan banyak. Salah satu manfaat yang diberikan oleh smart lamp ialah Kualitas hidup lebih baik. Hal ini dapat dikatakan demikian berkat kemajuan teknologi yang dimana seorang pengguna dapat mengatur lampu pintar dengan jarak jauh. Selain itu, penggunaan smart lamp memberikan manfaat dalam hal efisiensi energi karena smart lamp menggunakan lampu jenis LED yang dimana LED ini dikenal irit listrik.
     </p>
@@ -39,7 +44,7 @@
     
 
     <section>
-      <marquee direction="top"><h1>Spesifikasi Teknologi-teknologi yang digunakan pada product </h1></marquee>
+      <marquee direction="top"> <h1>Spesifikasi Teknologi-teknologi yang digunakan pada product </h1></marquee>
     </section>
     
 
@@ -57,12 +62,11 @@
     </ul>
   </section>
   
-  <section>
-    <table>
-    <div class="kotak2" style="width : 50%; height :700px ; border : 1px solid; float : left">
-      <td> <center><bold> Kelebihan Smart Lamp </td></center></bold>
-        <tr>
-            <td> 
+  <section style="display: flex; align-items: inherit;">
+   
+    <div class="kotak" style="width : 48%; height :700px; float: left;">
+        <h1><bold> Kelebihan Smart Lamp</bold></h1>
+        
             <p> 1. Dikontrol melalui Smarphone </p>
             <p> Penggunaan motion sensor sebagai sensor lampu/alat elektronik, perangkat ini berfungsi sebagai sakelar otomatis yang menyalakan lampu         saat mendeteksi adanya gerakan di ruangan. Penggunaan sensor lampu seperti ini dapat menghemat penggunaan listrik terutama pada daerah yang cukup jarang dilalui orang.</p>
             <p> 2. Meningkatkan kualitas tidur
@@ -73,22 +77,22 @@
             <p>Keunggulan lain dari lampu pintar ini tentu saja kita bisa mengatur warna lampu sesuai mood atau aktivitas yang tengah kita jalani. Kita bisa secara bebas memilih aneka ragam warna cahaya melalui smartphone. Pemilihan cahaya ini penting untuk meningkatkan produktivitas kerja atau membantu kita untuk menjalani hari dengan lebih ceria.</p>
              <p> 5. Dilengkapi dengan speaker</p>
             <p>Beberapa teknologi lampu pintar seperti merek MiPOW Playbulb Color telah memiliki sistem speaker di dalamnya yang dihidupkan dengan koneksi bluetooth. Misalnya ketika kita memutar musik mellow di smartphone maka pencahayaan akan meredup. Sebaliknya, ketika kita memutar lagu dengan tempo yang tinggi, lampu akan berwarna pink atau cerah.</p>
-            </td>
-          </tr>
-          </div>
-    </table>
+          
+    </div>
+
+    
          
-    <div class="kotak2" style="width : 48%; height :700px ; border : 1px solid; float : right">
-      <td> <center><bold> Kekurangan Smart Lamp </td></center></bold>
-        <tr>
-            <td> <p> 1. Harga mahal </p>
+    <div class="kotak2" style="width : 48%; height :700px ; border : 1px solid; float : left">
+      <h5><bold> Kekurangan Smart Lamp </bold></h5>
+       
+            <p> 1. Harga mahal </p>
            <p> Harga lampu pintar ini memang lebih mahal dari lampu LED biasa. Satu buah lampu pintar merek Xiaomi saja misalnya berharga sekitar Rp250.000 untuk daya 10 watt.</p> 
            <p> 2. Cahaya berbentuk <i>spot</i></p>
           <p>Lampu pintar berbasis LED dengan multi sensor masih memiliki kekurangan yaitu pancaran cahaya yang dihasilkan dari lampu masih berbentuk <i>spot</i> dimana sinar menyorot terarah dan pancaran sinarnya tidak meluas/menyebar.</p>
-           </td>
-         </tr>
+          
     </div>
   </section>
+ 
 
   <section>
     <h1>Berbagai Tipe Perangkat Pendeteksi Gerakan (Motion Sensor) </h1>
@@ -148,9 +152,15 @@
         </ul>
   </section>
 
-  <section> 
+  <section class="a"> 
     <h2> <p>Contoh Penggunaan Pir Motion Sensor </h2></p>
-    <iframe width="640" height="360" src="Video/Smart Lamp - Motion Sensor LED Light Globe in Action.mp4" frameborder="0" allowfullscreen data-volume="0"></iframe>
+    <div class="vid">
+    <video controls>
+      <source src="video1.ogv" type="video/ogg">
+        <source src="video1.mp4" type="video/MP4">
+        </video>
+      </div>
+
   </section>
 
 
