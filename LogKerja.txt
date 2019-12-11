@@ -19,5 +19,9 @@ Anggota:
 
 3. Ririn : Penambahan Kelebihan
 
+
 4. Tia 	 : Menambahkan Video Penerapan Pir Motion Sensor,melakukan perubahan di sesion 3 , menambahkan table difitur kelebihan dan kekurangan smart lamp
+
+
+5. Tia 	 : Menambahkan Image pada bagian Perangkat yang dibutuhkan,Menambahkan Video Penerapan Pir Motion Sensor,melakukan perubahan di sesion 3 , menambahkan table difitur kelebihan dan kekurangan smart lamp, melakukan pengeditan pada slide , memperbaiki tampilan Slide Cara kerja PIR
 
