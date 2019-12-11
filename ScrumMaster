@@ -1,20 +1,70 @@
+Scrum Master 1 Hevanders
+
+1. Buat Repository baru di github
+2. Buat Repository local
+3. Buat Slide pada nodejs
+4. Push dan pull ke github
+
+Masalah 
+1. User unkown pada saat melakukan push ke dalam github
+penyelesaian : lakukan git config --global user.email hevanders19
+
+
+2. Terjadi rejected  pada saat push 
+penyelesaian : lakukan git pull
+
+Anggota:
+1. Belsinta : Edit Judul, Create Lampu2019, Perubahan Style pada judul dan paragraf, penambahan style dan gambar, ada kesalahan fatal, pengeditan iamge pada section 2
+
+2. Hevanders : Melakukan Perubahan pada section 1, Mengahapus gambar 1, mengahapus gambar 2,Pengurangan pada section 1,  Penambahan Section Manfaat
+
+3. Ririn : Penambahan Kelebihan
+
+4. Tia 	 : Menambahkan Video Penerapan Pir
+
+5. Rizha : Kelebihan dan kekurangan smart lamp
+
+
+ScrumMaster 2 : Belsinta Tama
 Tugas Belsinta 
--
+- Mengubah style CSS background
 -
 -
 Tugas Hevanders
--
+- 
 -
 -
 Tugas Ririn
 - perbaikan gambar
--
+- Memperbaiki tampilan video
 -
 Tugas Tia
 - Penambahan Perangkat yang dibutuhkan pada PIR motion Sensor
 -
 -
 Tugas Rizha
-- Penambahan List kelebihan smart lamp
-- Penambahan list kekurangan smart lamp
+- Update kelebihan smart lamp
+- Update list kekurangan smart lamp
+-
+ScrumMaster 3 :Ririn Rouli Simanjuntak
+
+Tugas Belsinta 
+- 
+-
+-
+Tugas Hevanders
+- 
+-
+-
+Tugas Ririn
+- Penambahan Tabel
+- Penambahan Cara Kerja PIR
+-
+Tugas Tia
+- 
+-
+-
+Tugas Rizha
+- Update Kelemahan smart lamp
+- Menambahkan manfaat smart lamp
 -
